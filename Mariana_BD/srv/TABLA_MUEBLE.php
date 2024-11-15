@@ -1,0 +1,7 @@
+<?php
+
+const MUEBLE = "MUEBLE";
+const MUE_ID = "MUE_ID";
+const MUE_NOMBRE = "MUE_NOMBRE";
+const MUE_CATEGORIA = "MUE_CATEGORIA";
+const MUE_MATERIAL = "MUE_MATERIAL";
